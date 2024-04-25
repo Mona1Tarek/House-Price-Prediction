@@ -11,7 +11,7 @@ The housing market is a complex domain influenced by numerous factors, making it
 - **Data Collection**: Gather comprehensive data from various sources such as real estate databases, government records, and online listings.
 - **Data Preprocessing**: Handle missing values, outliers, and feature engineering to extract meaningful insights from the data.
 - **Model Training**: Explore and train various machine learning algorithms to determine the best-performing model for predicting house prices.
-- **Model Evaluation**: Evaluate the performance of the trained models using metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared (R2) score.
+- **Model Evaluation**: Evaluate the performance of the trained models 
 - **Deployment**: Deploy the trained model into a user-friendly interface where users can input property details and obtain instant price estimates.
 
 ## Getting Started
