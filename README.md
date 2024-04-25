@@ -1,9 +1,3 @@
-# House-Price-Prediction
-
-Sure, here's a README file for a GitHub repository focusing on a House Price Prediction project:
-
----
-
 # House Price Prediction
 
 Welcome to the House Price Prediction project repository! This project aims to predict house prices using machine learning techniques based on various features.
