@@ -16,7 +16,7 @@ The housing market is a complex domain influenced by numerous factors, making it
 
 ## Getting Started
 
-1. **Clone the Repository**: `git clone https://github.com/your-username/house-price-prediction.git`
+1. **Clone the Repository**
 2. **Install Dependencies**: `pip install -r requirements.txt`
 3. **Explore the Notebooks**: Take a look at the notebook to understand the data preprocessing, model training, and evaluation process.
 4. **Run the Code**: Execute the Python scripts or notebooks to replicate the analysis and train the prediction model.
