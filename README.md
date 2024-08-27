@@ -13,6 +13,9 @@ The project is divided into the following key components:
 3. **Model Development and Training**: Building and training regression models using popular machine learning frameworks like Scikit-learn, XGBoost, or TensorFlow. Various models, including linear regression, decision trees, and ensemble methods, will be trained and evaluated to identify the best-performing approach.
 
 
-This README file is tailored for a house price prediction project, providing a clear structure and detailed instructions for users and contributors.
+## Project Structure:
+- **data/**: Contains the raw and processed datasets used for training and testing the model.
+- **models/**: Stores the trained logistic regression model.
+- **notebooks/**: Includes Jupyter notebooks for exploratory data analysis and feature selection.
 
 
